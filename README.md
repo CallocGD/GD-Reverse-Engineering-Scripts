@@ -1,4 +1,4 @@
-<a href="https://discord.gg/C3VjpJqCFe"><img src=https://img.shields.io/badge/Discord_Server-3670a0?style=for-the-badge&logo=discord&logoColor=white></a>
+<p><a href="https://discord.gg/C3VjpJqCFe"><img src=https://img.shields.io/badge/Discord_Server-3670a0?style=for-the-badge&logo=discord&logoColor=white></a>
 </p>
 
 
