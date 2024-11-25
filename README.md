@@ -12,5 +12,5 @@ anybody who is currently actively trying to do what I am doing (as of 11-25-2024
 function comments and edit all those functions into ghidra.
 
 - [ ] find all `std::basic_string` functions, this script aims to find all the std::basic_string functions and write all the signatures in correctly. This one has a higher difficulty
-      the preivous incompleted script.
+      then the __Fix floats and other signatures script__ .
 
