@@ -1,3 +1,7 @@
+<a href="https://discord.gg/C3VjpJqCFe"><img src=https://img.shields.io/badge/Discord_Server-3670a0?style=for-the-badge&logo=discord&logoColor=white></a>
+</p>
+
+
 # GD-Reverse-Engineering-Scripts
 This is where I am putting my new tools I make comapred to the old repo this tool will implement newer and smarter techniques to decompiling the game faster.
 As someone who has a partime job elsewhere, playing catchup with robtop's updates has been quite the hassle which means I have to switch gears as there isn't
@@ -17,3 +21,4 @@ function comments and edit all those functions into ghidra.
 - [ ] One or two tutorials on how to use DumpAllVirtuals.java and make_vtables3.py to send vtables to Ghidra android decompilation
 
 - [ ] Function to C++ Converter (Kinda Wishful thinking) this would cleanup maybe some of the std::string slop and CCPoint slop, fixing `CCDirector::getWinSize() inline shit` and try and turn everything into valid C++ code for you to copy+paste. 
+
