@@ -14,3 +14,4 @@ function comments and edit all those functions into ghidra.
 - [ ] find all `std::basic_string` functions, this script aims to find all the std::basic_string functions and write all the signatures in correctly. This one has a higher difficulty
       then the __Fix floats and other signatures script__ .
 
+- [ ] One or two tutorials on how to use DumpAllVirtuals.java and make_vtables2.py to send vtables to Ghidra android decompilation
