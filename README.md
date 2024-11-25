@@ -16,4 +16,4 @@ function comments and edit all those functions into ghidra.
 
 - [ ] One or two tutorials on how to use DumpAllVirtuals.java and make_vtables3.py to send vtables to Ghidra android decompilation
 
-- [ ] Function to C++ Converter (Kinda Wishful thinking) this would cleanup maybe some of the std::string slop and CCPoint slop and try and turn everything into valid C++ code for you to copy+paste. 
+- [ ] Function to C++ Converter (Kinda Wishful thinking) this would cleanup maybe some of the std::string slop and CCPoint slop, fixing `CCDirector::getWinSize() inline shit` and try and turn everything into valid C++ code for you to copy+paste. 
